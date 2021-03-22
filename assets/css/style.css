@@ -1394,7 +1394,7 @@ ol {
 
 .services__accordion .card-heading a:after,
 .services__accordion .card-heading>a.active[aria-expanded=false]:after {
-	content: "ï„‡";
+	content: "∨";
 	font-family: "FontAwesome";
 	font-size: 15px;
 	color: #111111;
@@ -1404,7 +1404,7 @@ ol {
 }
 
 .services__accordion .card-heading.active a:after {
-	content: "ï„†";
+	content: "∧";
 	font-family: "FontAwesome";
 	font-size: 15px;
 	color: #111111;
@@ -1415,7 +1415,7 @@ ol {
 
 .services__accordion .card-heading a[aria-expanded=true]:after,
 .services__accordion .card-heading>a.active:after {
-	content: "ï„†";
+	content: "∧";
 	font-family: "FontAwesome";
 	font-size: 15px;
 	font-weight: 400;
